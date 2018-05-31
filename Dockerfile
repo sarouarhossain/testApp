@@ -1,3 +1,3 @@
 FROM php:7.1-apache
 COPY src/ /var/www/html
-EXPOSE 8081
+EXPOSE 80
